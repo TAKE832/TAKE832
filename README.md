@@ -10,10 +10,10 @@ COACHTECH でPHPやLaravelなどをを駆使し、プログラミングを学習
 
 ## 学習成果物
 COACHTECH 教材のハンズオンで作成したリポジトリです。（Tutorialごとに分けています）
-- Tutorial-5:HTML & CSS入門
+<- Tutorial-5:HTML & CSS入門 ->
 ・HTMLの基礎 [https://github.com/TAKE832/self-introduction-practice#self-introduction-practice]
 - Tutorial-7:Docker入門
-・PHPの基礎 [https://github.com/TAKE832/php-basics-practice]
+PHPの基礎 [https://github.com/TAKE832/php-basics-practice]
 ・制御構文 [https://github.com/TAKE832/php-control-practice]
 ・オブジェクト指向 [https://github.com/TAKE832/php-oop-practice]
 ・フォームデータの受け渡し [https://github.com/TAKE832/php-form-practice]

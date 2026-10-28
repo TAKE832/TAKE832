@@ -2,17 +2,17 @@
 
 COACHTECH でPHPやLaravelなどをを駆使し、プログラミングを学習中です。これからAI等が発展していく中でも、プログラミングを通して自分にしかできないことを追求していきたいと思っております。
 
-## 使える技術
+# 使える技術
 - **バックエンド**: PHP / Laravel
 - **フロントエンド**: HTML5 / CSS / Blade
 - **データベース**: MySQL
 - **その他**: Docker / Git・GitHub
 
-## 学習成果物
+# 学習成果物
 COACHTECH 教材のハンズオンで作成したリポジトリです。（Tutorialごとに分けています）
-# Tutorial-5:HTML & CSS入門 
+## Tutorial-5:HTML & CSS入門 
 - HTMLの基礎 [https://github.com/TAKE832/self-introduction-practice#self-introduction-practice]
-# Tutorial-7:Docker入門 ->
+## Tutorial-7:Docker入門 ->
 - PHPの基礎 [https://github.com/TAKE832/php-basics-practice]
 - 制御構文 [https://github.com/TAKE832/php-control-practice]
 - オブジェクト指向 [https://github.com/TAKE832/php-oop-practice]

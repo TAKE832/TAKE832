@@ -32,8 +32,24 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。（Tuto
 - デバッグ [https://github.com/TAKE832/debugging-app-practice]
 - テスト [https://github.com/TAKE832/testing-app-practice]
 - Webセキュリティ [https://github.com/TAKE832/security-app-practice]
-- Tutorial-11:Laravel × API
+### Tutorial-11:Laravel × API
 - API開発環境と疎通確認 [https://github.com/TAKE832/api-setup-practice]
 - タスク管理APIのCRUD実装 [https://github.com/TAKE832/task-crud-practice]
 ### Tutorial-12:Git × Github実践
 - GitHub連携演習・コードレビュー演習 [https://github.com/TAKE832/github-collab-practice]
+
+## これから挑戦したいこと
+- ユーザー体験とセキュリティの焦点を置き、より良いサービスを提供できるようになりたい。
+- プログラミングを通して、自分にしかできないことはないかを追求し、それと同時に他の開発者からのフィードバックを受け止め、自身の成長に繋げていきたい。
+
+## 連絡先
+
+
+### 自分について
+#### 趣味
+- ゲーム（スマホでやるものが多い）
+- 筋トレ・ランニング（どちらかは毎日欠かさずやるようにしている）
+- 一人カラオケ（人前で歌うのは少し恥ずかしいので）
+#### 長所と短所
+- 長所：好きなこと・やるべきだと思ったことに対して努力を続けることができる。
+- 短所：メンタルが少し弱いところ。精神が安定している方がポテンシャルを最大限引き出せると痛感しているので、日々改善のための努力を続けています。
